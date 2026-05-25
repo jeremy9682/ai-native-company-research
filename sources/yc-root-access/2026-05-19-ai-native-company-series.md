@@ -11,6 +11,14 @@ Published: 2026-05-19
 Accessed: 2026-05-25  
 Note: This page is a paraphrased analysis. It does not include full transcripts.
 
+## Source Index
+
+| Video | Speaker / Author | Organization |
+|---|---|---|
+| How to Build an Internal AI Agent That Evolves Itself | Ayush Garg | AnswerThis |
+| How to Build a Self-Improving Company with AI | Tom Blomfield | YC |
+| How to Give AI Agents Enough Context to Be Useful | Suchintan Singh | Skyvern |
+
 ## Why These Three Talks Belong Together
 
 The three talks describe different layers of the same operating model:
