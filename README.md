@@ -15,13 +15,13 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 
 ## Collected Sources
 
-| Date | Source | Speaker / Author | Organization | Public note |
-|---|---|---|---|---|
-| 2026-05-19 | [How to Build an Internal AI Agent That Evolves Itself](https://www.youtube.com/watch?v=DGD9b8K42lk) | Ayush Garg | AnswerThis / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
-| 2026-05-19 | [How to Build a Self-Improving Company with AI](https://www.youtube.com/watch?v=t-G67yKAHBQ) | Tom Blomfield | YC / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
-| 2026-05-19 | [How to Give AI Agents Enough Context to Be Useful](https://www.youtube.com/watch?v=1egwM88T3C0) | Suchintan Singh | Skyvern / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
+| Date | Video ID | Source | Speaker / Author | Organization | Public note |
+|---|---|---|---|---|---|
+| 2026-05-19 | `DGD9b8K42lk` | [How to Build an Internal AI Agent That Evolves Itself](https://www.youtube.com/watch?v=DGD9b8K42lk) | Ayush Garg | AnswerThis / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
+| 2026-05-19 | `t-G67yKAHBQ` | [How to Build a Self-Improving Company with AI](https://www.youtube.com/watch?v=t-G67yKAHBQ) | Tom Blomfield | YC / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
+| 2026-05-19 | `1egwM88T3C0` | [How to Give AI Agents Enough Context to Be Useful](https://www.youtube.com/watch?v=1egwM88T3C0) | Suchintan Singh | Skyvern / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
 
-This public list tracks what has already been summarized here. Complete transcripts, raw captions, video, and audio are intentionally not stored in this public repository.
+This public list tracks what has already been summarized here. Match future YouTube links by `Video ID`; tracking parameters after the ID do not make a new source. Complete transcripts, raw captions, video, and audio are intentionally not stored in this public repository.
 
 ## What This Repo Is
 

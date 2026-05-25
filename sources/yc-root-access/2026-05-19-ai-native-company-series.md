@@ -13,11 +13,11 @@ Note: This page is a paraphrased analysis. It does not include full transcripts.
 
 ## Source Index
 
-| Video | Speaker / Author | Organization |
-|---|---|---|
-| How to Build an Internal AI Agent That Evolves Itself | Ayush Garg | AnswerThis |
-| How to Build a Self-Improving Company with AI | Tom Blomfield | YC |
-| How to Give AI Agents Enough Context to Be Useful | Suchintan Singh | Skyvern |
+| Video ID | Video | Speaker / Author | Organization |
+|---|---|---|---|
+| `DGD9b8K42lk` | How to Build an Internal AI Agent That Evolves Itself | Ayush Garg | AnswerThis |
+| `t-G67yKAHBQ` | How to Build a Self-Improving Company with AI | Tom Blomfield | YC |
+| `1egwM88T3C0` | How to Give AI Agents Enough Context to Be Useful | Suchintan Singh | Skyvern |
 
 ## Why These Three Talks Belong Together
 
