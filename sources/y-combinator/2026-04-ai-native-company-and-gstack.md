@@ -115,3 +115,25 @@ Context -> Product judgment -> Plan -> Review -> Build -> QA -> Ship -> Learning
 ```
 
 The leverage comes from making each step repeatable enough that agents can participate without hiding responsibility.
+
+## Cross-Model Review Notes
+
+Claude and Codex independently reviewed the two transcripts after the initial source note was written. Their shared conclusion was that the two videos should be read as strategy plus execution:
+
+- Diana Hu provides the company-operating-system thesis: closed loops, queryable artifacts, software factories, and smaller teams.
+- Garry Tan shows the engineering-process implementation: skills, adversarial review, design exploration, browser QA, worktrees, and ship gates.
+
+The strongest public-safe takeaway is:
+
+```text
+Context -> Product judgment -> Plan -> Review -> Build -> QA -> Ship -> Learning
+```
+
+Both reviewers also warned against over-reading the most aggressive claims. "No human middleware," "10x more done," "1000x engineer," "no handwritten code," and "50 PRs/day" should be treated as directional testimony, not proven benchmarks.
+
+The safer interpretation is:
+
+- reduce lossy status routing;
+- make work artifact-rich and queryable;
+- keep clear human responsibility at quality gates;
+- scale parallel agents only when review, security, and QA capacity scale with them.
