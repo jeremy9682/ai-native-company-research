@@ -13,6 +13,10 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 - [Internal Agent That Evolves](patterns/internal-agent-that-evolves.md) — how tools and memories compound.
 - [Self-Improving Company Loop](patterns/self-improving-company-loop.md) — sensor/policy/tool/quality/learning loop.
 - [Evidence Timeline Agent Blueprint](blueprints/evidence-timeline-agent.md) — safe public blueprint for customer-evidence-driven product work.
+- [Agent Quality Is Harness Engineering](analysis/agent-quality-is-harness-engineering.md) — why model access and framework integration are not enough.
+- [Product-Layer Agents Without Owning Foundation Models](analysis/product-layer-agents-without-owning-models.md) — how agent products can compound above third-party models.
+- [Vertical Execution-Layer Agent](patterns/vertical-execution-layer-agent.md) — an auditable agent layer next to a system of record.
+- [LLM Vendor Interop Snapshot: Codex, Claude Code, Plugins, MCP](notes/llm-vendor-interop-snapshot-2026-07.md) — verified-as-of 2026-07 notes on official interoperability surfaces.
 
 ## Collected Sources
 
