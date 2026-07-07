@@ -9,6 +9,7 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 - [Content Policy](CONTENT_POLICY.md) — what can and cannot be included.
 - [YC Root Access: AI-native company series](sources/yc-root-access/2026-05-19-ai-native-company-series.md) — first source analysis.
 - [Y Combinator: AI-native company and GStack](sources/y-combinator/2026-04-ai-native-company-and-gstack.md) — company operating model plus agentic engineering workflow.
+- [Anthropic Code with Claude 2026 Agent Workshops](sources/anthropic/2026-code-with-claude-agent-workshops.md) — managed agents, memory, autonomy, proactive workflows, and decomposition.
 - [Context Engineering](patterns/context-engineering.md) — why agents need company context.
 - [Internal Agent That Evolves](patterns/internal-agent-that-evolves.md) — how tools and memories compound.
 - [Self-Improving Company Loop](patterns/self-improving-company-loop.md) — sensor/policy/tool/quality/learning loop.
@@ -27,6 +28,7 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 | 2026-05-19 | `DGD9b8K42lk` | [How to Build an Internal AI Agent That Evolves Itself](https://www.youtube.com/watch?v=DGD9b8K42lk) | Ayush Garg | AnswerThis / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
 | 2026-05-19 | `t-G67yKAHBQ` | [How to Build a Self-Improving Company with AI](https://www.youtube.com/watch?v=t-G67yKAHBQ) | Tom Blomfield | YC / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
 | 2026-05-19 | `1egwM88T3C0` | [How to Give AI Agents Enough Context to Be Useful](https://www.youtube.com/watch?v=1egwM88T3C0) | Suchintan Singh | Skyvern / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
+| 2026 | multiple | [Code with Claude 2026 Agent Workshops](https://claude.com/code-with-claude) | Anthropic | Anthropic | [Analysis](sources/anthropic/2026-code-with-claude-agent-workshops.md) |
 
 This public list tracks what has already been summarized here. Match future YouTube links by `Video ID`; tracking parameters after the ID do not make a new source. Complete transcripts, raw captions, video, and audio are intentionally not stored in this public repository.
 
