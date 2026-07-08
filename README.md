@@ -17,6 +17,7 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 - [Agent Quality Is Harness Engineering](analysis/agent-quality-is-harness-engineering.md) — why model access and framework integration are not enough.
 - [Product-Layer Agents Without Owning Foundation Models](analysis/product-layer-agents-without-owning-models.md) — how agent products can compound above third-party models.
 - [Vertical Execution-Layer Agent](patterns/vertical-execution-layer-agent.md) — an auditable agent layer next to a system of record.
+- [Ontology Operation System](patterns/ontology-operation-system.md) — low-code business building plus ontology-governed agents and system-of-record posting.
 - [LLM Vendor Interop Snapshot: Codex, Claude Code, Plugins, MCP](notes/llm-vendor-interop-snapshot-2026-07.md) — verified-as-of 2026-07 notes on official interoperability surfaces.
 
 ## Collected Sources
