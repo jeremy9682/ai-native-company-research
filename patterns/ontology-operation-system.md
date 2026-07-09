@@ -2,6 +2,17 @@
 
 Accessed / written: 2026-07-08
 
+## Boundary
+
+This is a public, reusable pattern note. It is not the canonical architecture
+source for any one company's product roadmap or multi-repository execution
+plan.
+
+Project-specific decisions should live in the relevant product repository and
+be coordinated through that project's issue / PR workflow. This note keeps only
+the public abstraction: low-code business building, ontology-governed actions,
+agent supervision, effect logging, and system-of-record posting.
+
 ## Summary
 
 An ontology operation system is a front-office operating layer where people and agents work through business objects, actions, policies, and evidence rather than raw ERP forms or generic chat.
