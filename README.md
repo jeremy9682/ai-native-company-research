@@ -19,6 +19,7 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 - [Vertical Execution-Layer Agent](patterns/vertical-execution-layer-agent.md) — an auditable agent layer next to a system of record.
 - [Ontology Operation System](patterns/ontology-operation-system.md) — low-code business building plus ontology-governed agents and system-of-record posting.
 - [LLM Vendor Interop Snapshot: Codex, Claude Code, Plugins, MCP](notes/llm-vendor-interop-snapshot-2026-07.md) — verified-as-of 2026-07 notes on official interoperability surfaces.
+- [Anthropic: Large-Scale Code Migrations with Claude Code](sources/anthropic/2026-07-16-large-scale-code-migrations.md) — six-step migration playbook (judge, rulebook, stress test, loop burning) plus a Frappe/ERPNext-to-Go worked example.
 
 ## Collected Sources
 
@@ -30,6 +31,7 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 | 2026-05-19 | `t-G67yKAHBQ` | [How to Build a Self-Improving Company with AI](https://www.youtube.com/watch?v=t-G67yKAHBQ) | Tom Blomfield | YC / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
 | 2026-05-19 | `1egwM88T3C0` | [How to Give AI Agents Enough Context to Be Useful](https://www.youtube.com/watch?v=1egwM88T3C0) | Suchintan Singh | Skyvern / YC Root Access | [Analysis](sources/yc-root-access/2026-05-19-ai-native-company-series.md) |
 | 2026 | multiple | [Code with Claude 2026 Agent Workshops](https://claude.com/code-with-claude) | Anthropic | Anthropic | [Analysis](sources/anthropic/2026-code-with-claude-agent-workshops.md) |
+| 2026-07-16 | — | [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration) | Anthropic (feat. Jarred Sumner, Mike Krieger) | Anthropic | [Analysis](sources/anthropic/2026-07-16-large-scale-code-migrations.md) |
 
 This public list tracks what has already been summarized here. Match future YouTube links by `Video ID`; tracking parameters after the ID do not make a new source. Complete transcripts, raw captions, video, and audio are intentionally not stored in this public repository.
 
