@@ -21,6 +21,7 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 - [LLM Vendor Interop Snapshot: Codex, Claude Code, Plugins, MCP](notes/llm-vendor-interop-snapshot-2026-07.md) — verified-as-of 2026-07 notes on official interoperability surfaces.
 - [Anthropic: Large-Scale Code Migrations with Claude Code](sources/anthropic/2026-07-16-large-scale-code-migrations.md) — six-step migration playbook (judge, rulebook, stress test, loop burning) plus a Frappe/ERPNext-to-Go worked example.
 - [Vertical AI ERP vs. Horizontal RPA: Auto-Dealer AI Agents](analysis/vertical-ai-erp-vs-rpa-auto-dealer-2026-08.md) — Yingdao RPA case study, 2026 RPA-to-agentic landscape, China dealer demand-side data, and a logged hypothesis-challenge-correction discussion arc.
+- [Evidence-First Operational Workbench Patterns from Rockxy](analysis/rockxy-evidence-first-workbench-ui.md) — reusable UI, evidence, AI review-data, responsive-layout, and localization patterns from a pinned public source snapshot.
 
 ## Collected Sources
 
