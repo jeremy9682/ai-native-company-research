@@ -21,6 +21,7 @@ This repository is for **analysis and reusable frameworks**, not for reposting c
 - [LLM Vendor Interop Snapshot: Codex, Claude Code, Plugins, MCP](notes/llm-vendor-interop-snapshot-2026-07.md) — verified-as-of 2026-07 notes on official interoperability surfaces.
 - [Anthropic: Large-Scale Code Migrations with Claude Code](sources/anthropic/2026-07-16-large-scale-code-migrations.md) — six-step migration playbook (judge, rulebook, stress test, loop burning) plus a Frappe/ERPNext-to-Go worked example.
 - [Vertical AI ERP vs. Horizontal RPA: Auto-Dealer AI Agents](analysis/vertical-ai-erp-vs-rpa-auto-dealer-2026-08.md) — Yingdao RPA case study, 2026 RPA-to-agentic landscape, China dealer demand-side data, and a logged hypothesis-challenge-correction discussion arc.
+- [Agent Session & Context Management Layer: Real Need? (2026-10)](analysis/agent-session-context-management-layer-2026-10.md) — demand evidence, US/Europe and China players, the Yahoo/portal analogy (and why EIP→SharePoint vs. Okta/Datadog is the better lens), and a cross-model discussion arc.
 
 ## Collected Sources
 
